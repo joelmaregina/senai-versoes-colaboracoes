@@ -1,0 +1,1 @@
+Bloco de texto criado para treinamento de Git e GitHub Curso de Full Stack do Senai
